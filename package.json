@@ -1,0 +1,23 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "practice fetching data from an API and working with it",
+  "homepage": "https://github.com/ajfm88/nodejs#readme",
+  "bugs": {
+    "url": "https://github.com/ajfm88/nodejs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajfm88/nodejs.git"
+  },
+  "license": "ISC",
+  "author": "ajfm88",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "axios": "^1.13.5"
+  }
+}
